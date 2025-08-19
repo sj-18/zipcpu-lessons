@@ -1,0 +1,13 @@
+[options]
+mode prove
+
+[engines]
+smtbmc
+
+[script]
+
+read -formal led.v
+prep -top led
+
+[files]
+led.v
