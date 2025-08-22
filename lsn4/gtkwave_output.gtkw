@@ -1,0 +1,55 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Fri Aug 22 07:03:37 2025
+[*]
+[dumpfile] "/home/sid/Desktop/zipcpu/My_Work/lsn4/ledreqtrace.vcd"
+[dumpfile_mtime] "Fri Aug 22 06:56:50 2025"
+[dumpfile_size] 3433
+[savefile] "/home/sid/Desktop/zipcpu/My_Work/lsn4/gtkwave_output.gtkw"
+[timestart] 8
+[size] 2494 1353
+[pos] -27 -24
+*-5.401924 355 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[sst_width] 314
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 417
+@28
+TOP.i_addr
+TOP.i_clk
+TOP.i_cyc
+@22
+TOP.i_data[31:0]
+@28
+TOP.i_request
+TOP.i_we
+@200
+-
+@800022
+[color] 3
+TOP.o_led[5:0]
+@28
+[color] 2
+(0)TOP.o_led[5:0]
+[color] 2
+(1)TOP.o_led[5:0]
+[color] 2
+(2)TOP.o_led[5:0]
+[color] 2
+(3)TOP.o_led[5:0]
+[color] 2
+(4)TOP.o_led[5:0]
+[color] 2
+(5)TOP.o_led[5:0]
+@200
+-
+@1001200
+-group_end
+@28
+TOP.o_stall
+TOP.o_ack
+@22
+TOP.o_data[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
