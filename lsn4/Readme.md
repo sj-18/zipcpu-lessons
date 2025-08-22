@@ -1,0 +1,1 @@
+![Wishbone slave simulation](image.png)
